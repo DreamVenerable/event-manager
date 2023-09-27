@@ -15,7 +15,7 @@ This program is from a project within the Ruby path of The Odin Project called [
 
 ## How It's Made <a name = "how_its_made"></a>
 
-**Tech used:** Ruby, GoogleCivic API
+**Tech used:** Ruby, ERB, CVS, GoogleCivic API
 
 ## Usage: <a name = "usage"></a>
 
